@@ -1,5 +1,5 @@
 {
-  "name": "video-browser",
+  "name": "vue-video-browser",
   "version": "0.1.0",
   "private": true,
   "scripts": {
